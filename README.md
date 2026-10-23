@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Hi there, I'm Yogesh Naidu B 👋
+# B Yogesh Naidu .
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=ECE+Undergrad+%40+Kishkinda+University;Aspiring+Network+Engineer+%26+Associate;ServiceNow+Certified+(CSA+%7C+CAD);Enterprise+App+Developer" alt="Typing SVG" />
