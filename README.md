@@ -42,15 +42,27 @@ Motivated **Electronics & Communication Engineering** student with a strong pass
 
 ### 🚀 Featured Projects
 
+#### 🌐 [Secure Enterprise Company Network System](https://github.com/BYogeshNaidu/Secure-Company-Network-System)
+> *A comprehensive multi-layered secure enterprise network design and simulation for a corporate 3-floor infrastructure.*
+
+- **Multi-Zone Security Architecture:** Designed with Cisco ASA Firewalls implementing distinct security zones (**Outside**, **Inside**, and **DMZ**), stateful inspection, and granular Access Control Lists (ACLs).
+- **Core Routing & Switching:** Configured Cisco Catalyst switches (3850 Layer-3 & 2960 Layer-2), Inter-VLAN routing, Spanning Tree Protocol (STP), EtherChannel link aggregation, and OSPF dynamic routing.
+- **Enterprise Services:** Implemented centralized DHCP, DNS, HSRP default gateway redundancy, and secure site-to-site VPN connectivity.
+- **Protocols & Tools:** `Cisco Packet Tracer` • `Cisco ASA` • `OSPF` • `VLANs / 802.1Q` • `ACLs` • `HSRP` • `NAT/PAT` • `VPN`
+
+👉 **[Explore Secure Network System ➔](https://github.com/BYogeshNaidu/Secure-Company-Network-System)**
+
+---
+
 #### 🏥 [MedAI — Medical AI Research Workspace](https://github.com/BYogeshNaidu/MedAI)
 > *A full-stack, patient-linked medical imaging and biosignal AI research platform.*
 
 - **Multi-Modal Diagnostics:** Analyzes chest X-Rays (with Grad-CAM heatmaps), 3D brain MRIs (orthogonal slices & voxel surface meshes via Plotly), and ECG waveforms (WFDB/XQRS peak detection & RR measurements).
-- **Full-Stack Architecture:** Built with a high-performance **FastAPI** backend (Python 3.12, SQLAlchemy, Argon2 auth, single-worker processing queue) and a modern **React 19 / TypeScript** frontend (Vite, interactive signal viewers).
+- **Full-Stack Architecture:** Built with a high-performance **FastAPI** backend (Python 3.12, SQLAlchemy, Argon2 auth) and a modern **React 19 / TypeScript** frontend (Vite, interactive signal viewers).
 - **Enterprise-Grade Design:** Secure role-based access control (Admin/Analyst/Viewer), cryptographic audit trails (SHA-256 integrity checks), PDF diagnostic reports, and Docker containerization.
 - **Tech Stack:** `FastAPI` • `React` • `TypeScript` • `Docker` • `PyTorch` • `MONAI` • `Plotly` • `SQLAlchemy`
 
-👉 **[View MedAI Repository ➔](https://github.com/BYogeshNaidu/MedAI)**
+👉 **[Explore MedAI Workspace ➔](https://github.com/BYogeshNaidu/MedAI)**
 
 ---
 
