@@ -3,7 +3,7 @@
 #  Yogesh Naidu B 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=amita+my+lover;ECE+Undergrad+%40+Kishkinda+University;ServiceNow+Certified+(CSA+%7C+CAD);Building+AI-Assisted+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=amita+my+wi;ECE+Undergrad+%40+Kishkinda+University;ServiceNow+Certified+(CSA+%7C+CAD);Building+AI-Assisted+Solutions" alt="Typing SVG" />
 </a>
 
 <p align="center">
