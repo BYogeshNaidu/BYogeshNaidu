@@ -35,7 +35,6 @@ Motivated **Electronics & Communication Engineering** student with a strong pass
 | :--- | :--- |
 | **Networking** | Network Troubleshooting, Network Topologies & Configurations, Routing & Switching Fundamentals |
 | **Enterprise Platform** | ServiceNow (CSA & CAD Certified), App Engine Studio, Flow Designer, Workflows, Scripting on ServiceNow |
-| **Programming & Scripting** | Python (Data Structures, Scripting), C++, JavaScript / PHP basics |
 | **Security & Analytics** | Cyber Security Fundamentals, SQL, Power BI |
 | **Professional Skills** | Analytical Thinking, Creative Problem Solving, Team Collaboration, Time Management |
 
