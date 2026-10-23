@@ -40,6 +40,20 @@ Motivated **Electronics & Communication Engineering** student with a strong pass
 
 ---
 
+### 🚀 Featured Projects
+
+#### 🏥 [MedAI — Medical AI Research Workspace](https://github.com/BYogeshNaidu/MedAI)
+> *A full-stack, patient-linked medical imaging and biosignal AI research platform.*
+
+- **Multi-Modal Diagnostics:** Analyzes chest X-Rays (with Grad-CAM heatmaps), 3D brain MRIs (orthogonal slices & voxel surface meshes via Plotly), and ECG waveforms (WFDB/XQRS peak detection & RR measurements).
+- **Full-Stack Architecture:** Built with a high-performance **FastAPI** backend (Python 3.12, SQLAlchemy, Argon2 auth, single-worker processing queue) and a modern **React 19 / TypeScript** frontend (Vite, interactive signal viewers).
+- **Enterprise-Grade Design:** Secure role-based access control (Admin/Analyst/Viewer), cryptographic audit trails (SHA-256 integrity checks), PDF diagnostic reports, and Docker containerization.
+- **Tech Stack:** `FastAPI` • `React` • `TypeScript` • `Docker` • `PyTorch` • `MONAI` • `Plotly` • `SQLAlchemy`
+
+👉 **[View MedAI Repository ➔](https://github.com/BYogeshNaidu/MedAI)**
+
+---
+
 ### 📜 Certifications & Internships
 
 - 🏅 **ServiceNow Certified System Administrator (CSA)**
