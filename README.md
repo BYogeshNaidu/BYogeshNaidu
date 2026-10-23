@@ -3,7 +3,7 @@
 # 🌟 Hi there, I'm Yogesh Naidu B 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;ECE+Undergrad+%40+Kishkinda+University;ServiceNow+Certified+(CSA+%7C+CAD);Building+AI-Assisted+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;ECE+Undergrad+%40+Kishkinda+University;SQL+%7C+Power+BI+%7C+Python;ServiceNow+Certified+(CSA+%7C+CAD);Building+AI-Assisted+Solutions" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -26,6 +26,18 @@ Motivated **Electronics & Communication Engineering** student with a strong pass
 - 📊 **Career Focus:** Data querying, visualization, and AI-assisted analysis for data-driven decisions
 - 🤖 **Interests:** Machine Learning & AI, Cloud Workflows, and Cyber Security fundamentals
 - 🏆 **Athletics:** Ball Badminton player & 110-meter hurdles track athlete
+
+---
+
+### 🛠️ Skills & Competencies
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Data & Analytics** | SQL, Power BI, Python (Data Analysis, Scripting), Data Visualization |
+| **Programming** | Python, C++, PHP |
+| **AI & Platforms** | Ollama (Local AI Integration), ServiceNow (CSA, CAD), Git, GitHub |
+| **Core Foundations** | Cyber Security Fundamentals, Business Intelligence, Data Querying |
+| **Professional Skills** | Analytical Thinking, Creative Problem Solving, Team Collaboration, Time Management |
 
 ---
 
