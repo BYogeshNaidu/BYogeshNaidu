@@ -3,7 +3,7 @@
 #  Yogesh Naidu B 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=amita+my+wi;ECE+Undergrad+%40+Kishkinda+University;ServiceNow+Certified+(CSA+%7C+CAD);Building+AI-Assisted+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=learning+networking;ECE+Undergrad+%40+Kishkinda+University;ServiceNow+Certified+(CSA+%7C+CAD);Building+AI-Assisted+Solutions" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-Motivated **Electronics & Communication Engineering** student with a strong passion for **Data Analytics**, **AI-assisted problem solving**, and **Business Intelligence**. I focus on extracting patterns from complex datasets, building intuitive dashboards, and leveraging modern AI models to drive informed business decisions.
+Motivated **Electronics & Communication Engineering** student with a strong passion for **Networking**.build custom enterprise applications on the ServiceNow AI Platform using a range of no-code, low-code, and pro-code tools.
 
 - 🎓 **Education:** Pursuing B.E. in Electronics & Communication Engineering (2023–2027) at **Kishkinda University, Ballari** (CGPA: 7.2)
 - 📊 **Career Focus:** Data querying, visualization, and AI-assisted analysis for data-driven decisions
