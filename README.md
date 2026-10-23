@@ -33,8 +33,9 @@ Motivated **Electronics & Communication Engineering** student with a strong pass
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Networking** | Network Troubleshooting, Network Topologies & Configurations, Routing & Switching Fundamentals |
+| **Networking & Analysis** | Network Troubleshooting, Network Topologies & Configurations, Routing & Switching Fundamentals, **Wireshark (Packet Analysis)**, Cisco Packet Tracer |
 | **Enterprise Platform** | ServiceNow (CSA & CAD Certified), App Engine Studio, Flow Designer, Workflows, Scripting on ServiceNow |
+| **Operating Systems** | **Linux**, **Ubuntu**, **Windows** |
 | **Security & Analytics** | Cyber Security Fundamentals, SQL, Power BI |
 | **Professional Skills** | Analytical Thinking, Creative Problem Solving, Team Collaboration, Time Management |
 
