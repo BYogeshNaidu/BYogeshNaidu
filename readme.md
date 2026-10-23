@@ -23,9 +23,8 @@
 Motivated **Electronics & Communication Engineering** student with a strong passion for **Networking**.build custom enterprise applications on the ServiceNow AI Platform using a range of no-code, low-code, and pro-code tools.
 
 - 🎓 **Education:** Pursuing B.E. in Electronics & Communication Engineering (2023–2027) at **Kishkinda University, Ballari** (CGPA: 7.2)
-- 📊 **Career Focus:** Data querying, visualization, and AI-assisted analysis for data-driven decisions
-- 🤖 **Interests:** Machine Learning & AI, Cloud Workflows, and Cyber Security fundamentals
-- 🏆 **Athletics:** Ball Badminton player & 110-meter hurdles track athlete
+- 📊 **Career Focus:**Network troubleshooting , mastering network topologies configurations and associate engineer 
+- 🤖 **Interests:** networking,application development and Cyber Security fundamentals
 
 ---
 
